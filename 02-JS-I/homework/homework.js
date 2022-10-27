@@ -36,7 +36,7 @@ const nuevoModulo = 21 % 5 === 1.05;
 function devolverString(str) {
   // "Return" la string provista: str
   // Tu código:
-   const aleteo= 18 + 34 === ; 
+   const aleteo= 18 + 34 === 52; 
 }
 
 function suma(x, y) {
